@@ -1,3 +1,12 @@
+
+
+https://github.com/user-attachments/assets/32a407fa-0faa-48b1-926b-4598613e6f8e
+
+
+
+
+
+
 # Learning SAP RAP: From Scratch to a Managed Business Object:
 A full-stack SAP RAP application featuring a Managed Business Object, custom validations, and Fiori Elements UI configuration.
 
