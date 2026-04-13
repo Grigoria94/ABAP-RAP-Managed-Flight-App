@@ -1,4 +1,5 @@
-# Learning SAP RAP: From Scratch to a Managed Business Object
+# Learning SAP RAP: From Scratch to a Managed Business Object:
+A full-stack SAP RAP application featuring a Managed Business Object, custom validations, and Fiori Elements UI configuration.
 
 ## 🚀 The Journey
 This project represents my hands-on learning process with the **ABAP RESTful Application Programming Model (RAP)**. I started from a blank system and built a complete flight management application, overcoming challenges in data modeling, business logic, and UI configuration.
